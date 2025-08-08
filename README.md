@@ -21,4 +21,4 @@ Cada pasta contém um script que resolve um exercício específico:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/EXERCICIO_FUNCAO.git
+   git clone https://github.com/LeandroCabralLC/EXERCICIO_FUNCAO.git
